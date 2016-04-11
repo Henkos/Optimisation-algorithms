@@ -4,17 +4,16 @@
 <comment>Configuration file</comment>
 <!--Problem parameters-->
 <entry key="problem type">1</entry>
-<entry key="objective function name">LOP</entry>
+<entry key="objective function name">QAP</entry>
 <entry key="significance">0.02</entry>
 <entry key="z-score for significance">2.33</entry>
 <entry key="neighbourhoodMinSample">50</entry>
 <entry key="Predictor acceptance threshold">0.1</entry>
 <entry key="jobs">100</entry>
 <entry key="machines">20</entry>
-<entry key="matrix cardinality">23</entry>
-<entry key="validationSample">5</entry>
-<entry key="PinstanceName">npal23.txt</entry>
-<entry key="PBestName">best-npal23.txt</entry>
+<entry key="matrix cardinality">32</entry>
+<entry key="PinstanceName">esc32a.txt</entry>
+<entry key="PBestName">best-esc32a.txt</entry>
 <entry key="rounds">1</entry>
 <entry key="seed">384898681876</entry>
 </properties>
