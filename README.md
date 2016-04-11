@@ -19,4 +19,5 @@ The parameters in the xml file are:
 - PBestName (the best fitness solution known for that instance)
 - rounds (how many rounds of the algorithm run, e.g 30 for statistical significance)
 - seed (the seed for the random generator used in the alorithm, heuristic algorithms incorporates a significant degree of randomness)
+
 The output of the algorithm is dumped in a Result file containing various statistics (e.g the fitnesses found along with the permutations representing the solutions for the problems, the prediction errors for the identified solutions, which predictors were used, how large is the predictors group, etc).
