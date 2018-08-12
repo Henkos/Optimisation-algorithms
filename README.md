@@ -1,7 +1,7 @@
-# Predictive-Optimisation-algorithms
-PhD code
+My PhD# Predictive-Optimisation-algorithms
 
-This code implements a novel optimisation algorithm which can find approximate good solutions and predict the quality of the solutions for three permutation combinatorial problems: Quadratic Assignment Problem (QAP), Linear Ordering Problem (LOP) and Flow-Shop Scheduling Problem (PFSP).
+
+This sample code implements a novel optimisation algorithm which can find approximate good solutions and predict the quality of the solutions for three permutation combinatorial problems: Quadratic Assignment Problem (QAP), Linear Ordering Problem (LOP) and Flow-Shop Scheduling Problem (PFSP).
 The files are aggregated in a jar file which can be run in the command line as follows:
 java -jar problem.jar propfile.xml. 
 The properties of the problems and the parameters needed to run the code are found in the xml file (propfile).
