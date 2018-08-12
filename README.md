@@ -20,7 +20,7 @@ The parameters in the xml file are:
 - rounds (how many rounds of the algorithm run, e.g 30 for statistical significance)
 - seed (the seed for the pseudo-random generator used in the alorithm, since the heuristic algorithm incorporates a significant degree of randomness)
 
-The output of the algorithm is collected in a result file (Result.txt) containing various statistics. For this code example are included the fitnesses found along with the permutations representing the solutions for the problems, the prediction errors for the identified solutions, which predictors were used and how large is the predictors group. Three instances are included: esc32a for QAP problem, npal23 for LOP problem and jc5020 for PFSP.
+The output of the algorithm is collected in a result file (Results.txt) containing various statistics. For this code example are included the fitnesses found along with the permutations representing the solutions for the problems, the prediction errors for the identified solutions, which predictors were used and how large is the predictors group. Three instances are included: esc32a for QAP problem, npal23 for LOP problem and jc5020 for PFSP.
 
 Example how to run the code in command line:
 
